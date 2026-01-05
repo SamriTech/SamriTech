@@ -56,9 +56,6 @@ I enjoy building full-stack applications and data-driven solutions while continu
 🔹 Credit Risk Probability Model (ML)  
 🔹 Solar Data Discovery & Visualization  
 🔹 Full-Stack Web Applications (MERN)  
-
-👉 *Projects are pinned below ⬇️*
-
 ---
 
 ## 📫 Connect With Me
@@ -66,10 +63,10 @@ I enjoy building full-stack applications and data-driven solutions while continu
   <a href="mailto:samrawitalemzewd@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SamriTech">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/samrawitalemzewd">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
